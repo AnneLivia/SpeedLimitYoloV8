@@ -1,0 +1,14 @@
+path: E:\Development\Artificial Intelligence\Practice Projects\CustomYOLO\dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 8
+names: ['z100', 'z30', 'z40', 'z50', 'z60', 'z70', 'z80', 'z90']
+
+roboflow:
+  workspace: knubot
+  project: speed-limit-s6q3y
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/knubot/speed-limit-s6q3y/dataset/4
