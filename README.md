@@ -11,4 +11,4 @@ In this repository, it's been used YoloV8 to detect speed limit sign using a dat
 
 ## Results
 
-<img src="image.png" alt='batch validation' width="50%"/>
+<img src="https://github.com/AnneLivia/SpeedLimitYoloV8/blob/main/Speed%20Limit%20Detection/train/val_batch1_labels.jpg" alt='batch validation' width="50%"/>
