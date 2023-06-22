@@ -1,4 +1,4 @@
-path: E:\Development\Artificial Intelligence\Practice Projects\CustomYOLO\dataset
+path: E:\Development\Artificial Intelligence\Practice Projects\Speed Limit Detection\dataset
 train: train/images
 val: valid/images
 test: test/images
