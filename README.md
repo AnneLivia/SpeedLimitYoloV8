@@ -5,7 +5,7 @@ In this repository, it's been used YoloV8 to detect speed limit sign using a dat
 ## Custom dataset
 - Dataset speed-limit was obtained from [roboflow.com](https://universe.roboflow.com/knubot/speed-limit-s6q3y).
 - Folder structure and annotation (txt) format must follow:
-    - class, x, y, width and height ex: 0 0.4877835951134381 0.4790575916230367 0.9476439790575917 0.7835951134380454
+    - class, x, y, width and height, ex: 0 0.4877835951134381 0.4790575916230367 0.9476439790575917 0.7835951134380454
     - A directory with two folders called images and labels are required for each set (train, validation).
     - The labels in txt must have the same name as the image.
 
